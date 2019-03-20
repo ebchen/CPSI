@@ -1,0 +1,6 @@
+/*
+
+dfs
+keep track of preorder number and take the max in the subtree
+
+*/

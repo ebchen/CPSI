@@ -1,0 +1,5 @@
+/*
+Use a hash map
+
+or use an array to store strates
+*/
